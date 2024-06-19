@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Samridha Kumar Vyas",
+    "email": "evilshadow@gmail.com",
+    "phone": "8902198326",
+    "github_link": "www.google.com",
+    "stopwatch_time": 150
+  },
+  {
+    "id": 2,
+    "name": "Shreyash Kumar",
+    "email": "rshreyash08@gmail.com",
+    "phone": "983325446",
+    "github_link": "www.yahoo.com",
+    "stopwatch_time": 200
+  },
+  {
+    "id": 3,
+    "name": "Anmol Raj Soni",
+    "email": "rshreyash08@gmail.com",
+    "phone": "983325446",
+    "github_link": "www.yahoo.com",
+    "stopwatch_time": 200
+  }
+]
