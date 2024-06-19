@@ -112,6 +112,7 @@ Retrieve a submission by its index.
 }
 ```
 
+
 ### Read The Submitted Form By Email
 ##### URL:
 ```bash 
@@ -134,9 +135,10 @@ Retrieve a submission by searching using email.
   "email": "string",
   "phone": "string",
   "github_link": "string",
-  "stopwatch_time": "string"
+  "stopwatch_time": number
 }
 ```
+
 
 ### Update a Submission
 ##### URL:
@@ -149,13 +151,16 @@ Retrieve a submission by searching using email.
 Update an existing submission at the specified index.
 ###### Query Parameters: *index* (number) : The index of the submission to retrieve.
 ##### Response:
+```bash
 {
   "name": "string",
   "email": "string",
   "phone": "string",
   "github_link": "string",
-  "stopwatch_time": "string"
+  "stopwatch_time": number
 }
+```
+
 
 ### Delete a Submission
 ##### URL:
