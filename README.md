@@ -108,7 +108,7 @@ Retrieve a submission by its index.
   "email": "string",
   "phone": "string",
   "github_link": "string",
-  "stopwatch_time": "string"
+  "stopwatch_time": number
 }
 ```
 
