@@ -23,8 +23,8 @@ Follow these steps to set up and run the application on your local machine:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/typescript-server.git
-cd typescript-server
+git clone https://github.com/shreyashkr17/SlidelyAI--TASK2-SERVER.git
+cd SlidelyAI--TASK2-SERVER
 npm install
 npm run build
 npm start
